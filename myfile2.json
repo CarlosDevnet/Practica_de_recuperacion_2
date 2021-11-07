@@ -1,0 +1,7 @@
+{
+    "ipadd_prefix":"172.30.0.0/29",
+    "mask_subred":"255.255.255.248",
+    "wild_card":"0.0.0.7",
+    "private_addres":"True"
+}
+   
